@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/production\Czujnik.X_full.production.hex">
+    <memory name="program">
+      <units>words</units>
+      <length>4096</length>
+      <used>138</used>
+      <free>3958</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>192</length>
+      <used>13</used>
+      <free>179</free>
+    </memory>
+  </executable>
+</project>
